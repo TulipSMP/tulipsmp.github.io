@@ -7,7 +7,7 @@ A tight-knit community of passionate players trying to find solace in this peril
 - [Guidelines](guidelines)
 - [Punishment Guidelines](guidelines/punishments)
 - [Documentation](docs)
-- [Map](https://tulip.krafterdev.xyz/)
+- [Map](/map)
 - [Support Tulip!](support)
 - [Staff Guide](docs/staffguide)
 
