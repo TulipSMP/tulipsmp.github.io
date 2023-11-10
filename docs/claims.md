@@ -1,4 +1,4 @@
-# Tulip SMP - Claims
+# Claims
 - [Back](/docs)
 
 > **NOTE: This has just been copy-pasted for convenience, it will be changed depending on the system we choose as a community.**

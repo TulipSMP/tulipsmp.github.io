@@ -1,4 +1,4 @@
-# Tulip SMP - AuxProtect and CoreProtect
+# AuxProtect and CoreProtect
 
 - [Back](/docs/staffguide)
 

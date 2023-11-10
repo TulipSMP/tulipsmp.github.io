@@ -1,4 +1,4 @@
-# Tulip SMP - Punishment Guidelines
+# Punishment Guidelines
 
 - [Back](/guidelines/)
 
@@ -51,5 +51,6 @@ Feel free to [/jail](/docs/commands/#togglejail) people instead of tempbanning t
 Rule | Misdemeanor | Punishment
 -----|-------------|-----------
 1 | Harassment | Short Tempban/Jail
+1 | 
 
 *WIP*

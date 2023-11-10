@@ -1,4 +1,4 @@
-# Tulip SMP - Jail System
+# Jail System
 
 - [Back](/docs/staffguide)
 

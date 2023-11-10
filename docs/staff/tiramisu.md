@@ -1,4 +1,4 @@
-# Tulip SMP - Tiramisu Discord Bot
+# Tiramisu Discord Bot
 
 - [Back](/docs/staffguide)
 

@@ -1,4 +1,4 @@
-# Tulip SMP - Staff Guide
+# Staff Guide
 
 - [Back](/docs)
 

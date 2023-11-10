@@ -1,4 +1,4 @@
-# Tulip SMP - New Staff Member Guide
+# New Staff Member Guide
 
 - [Main Page](/)
 

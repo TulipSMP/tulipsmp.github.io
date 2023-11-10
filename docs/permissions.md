@@ -1,4 +1,4 @@
-# Tulip SMP - Permissions
+# Permissions
 
 - [Back](/docs)
 

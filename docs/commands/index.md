@@ -1,4 +1,4 @@
-# Tulip SMP - Commands
+# Commands
 
 - [Back](/docs)
 

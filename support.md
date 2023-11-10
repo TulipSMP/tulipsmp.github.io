@@ -1,4 +1,4 @@
-# Tulip SMP - Support
+# Support
 
 - [Back](/)
 

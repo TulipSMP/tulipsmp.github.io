@@ -1,4 +1,4 @@
-# Tulip SMP - Guidelines
+# Guidelines
 
 - [Back](/)
 
