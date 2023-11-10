@@ -8,6 +8,7 @@ Documentation for Tulip SMP players and staff.
 
 ## Pages
 
-- [Commands](/docs/commands/)
-- [Staff Guide](/docs/staffguide/)
-- [Permissions](/docs/permissions)
+- [Commands](commands)
+- [Permissions](permissions)
+- [ArtMap How-To](artmap)
+- [Claims](claims)

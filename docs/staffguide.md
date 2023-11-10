@@ -1,6 +1,6 @@
 # Tulip SMP - Staff Guide
 
-- [Back](/docs/)
+- [Back](/docs)
 
 ## About
 
@@ -17,3 +17,4 @@ This page DOES NOT include *how* these tools should be used. For that, see the [
 ##### Minecraft
 
 - [AuxProtect and CoreProtect](staff/ap-and-co)
+- [Jail](staff/jail)

@@ -18,4 +18,4 @@ Here are those levels, from highest to lowest:
 - Jr. Moderator (`jrmod`)
 - Player (`default`)
 
-For what commands each level has access to, see the [Commands](/docs/commands) page.
+For what commands each level has access to, see the [Commands](commands) page.

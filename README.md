@@ -7,8 +7,6 @@ A tight-knit community of passionate players trying to find solace in this peril
 - [Guidelines](guidelines)
 - [Punishment Guidelines](guidelines/punishments)
 - [Documentation](docs)
-- [Map](/map)
-- [Support Tulip!](support)
 - [Staff Guide](docs/staffguide)
 
 ## Invite Only
@@ -23,4 +21,4 @@ If you wish to join Tulip SMP, please reach out to a current member.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DO1DO)
 
-*Disclaimer: by donating you recognize that you will receive nothing in return for your donation except for a cosmetic discord and ingame role valued at $0.00, and accept responsibility for any applicable taxes. Donations are qualified as a "Gift" in the United States, where the gift-giver is responsible for paying a Gift Tax if the total amount given meets or exceeds $14,000/year (as of 2014).*
+*Disclaimer: by donating you recognize that you will receive nothing in return for your donation except for a cosmetic discord and ingame role valued at $0.00, and accept responsibility for any applicable taxes. Donations are qualified as a "Gift" for Tax purposes in the United States. Donations are not tax-deductible.*
