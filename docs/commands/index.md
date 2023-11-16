@@ -162,30 +162,6 @@ See who's near you ingame.
 
 *Alias for [/near](#near).*
 
-#### /balancetop
-
-- `/balancetop`
-
-List top players in terms of ingame balance.
-
-#### /baltop
-
-*Alias for [/balancetop](#balancetop).*
-
-#### /balance
-
-- `/balance`
-
-Check your current balance.
-
-#### /bal
-
-*Alias for [/balance](#balance)*
-
-#### /money
-
-*Alias for [/balance](#balance)*
-
 #### /workbench
 
 - `/workbench`
@@ -228,16 +204,6 @@ Shows the last logout time of a player.
 
 Teleport to your home named `<name>`, which you can set with [/sethome](#sethome).
 
-#### /tpdeny
-
-- `/tpdeny <from player>`
-
-Reject teleport requests.
-
-#### /tpno
-
-*Alias for [/tpdeny](#tpdeny).*
-
 #### /getpos
 
 - `/getpos`
@@ -259,12 +225,6 @@ Get the player head of you, or that of another `<owner>`.
 #### /head
 
 *Alias for [/skull](#skull).*
-
-#### /paytoggle
-
-- `/paytoggle`
-
-Toggles whether you are currently accepting payments.
 
 #### /itemlore
 
@@ -310,12 +270,6 @@ Set your nickname or turn it off.
 
 > Moderators can use the following to change or reset a player's username:
 > - `/nick [player] [name|off]`
-
-#### /pay
-
-- `/pay [player] [amount]`
-
-Pay another player from your balance.
 
 #### /r
 
@@ -572,10 +526,6 @@ Manage EssentialsX.
 #### /delkit
 
 Remove a kit.
-
-#### /eco
-
-Manage the Economy.
 
 #### /lag
 
