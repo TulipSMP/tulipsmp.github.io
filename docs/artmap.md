@@ -29,3 +29,5 @@ This is a guide on how to use ArtMap! Our thing for drawing art. You can view th
 
 ## Commands
 See [this page](https://gitlab.com/BlockStack/ArtMap/-/wikis/Commands#artmap-commands) for a list of commands.
+
+For a simple GUI ingame, use the `/art` command.
