@@ -22,7 +22,7 @@ This is a guide on how to use ArtMap! Our thing for drawing art. You can view th
 
 ## Usage
 * Right click the easel to "ride" it and begin painting
-* Right click or click and drag with different dyes to paint!
+* Right click or click and drag with the different dyes you are given to paint! (Your inventory will be restored when you stop painting)
 * Put a dye in your offhand and hold a bucket to fill
 * Press shift to dismount, or save and retrieve your artwork by clicking the paintbrush, or using the `/artmap save` command before dismounting the canvas.
 * Craft a painting with an empty map to copy it. (Only the author of an atwork can copy it)
