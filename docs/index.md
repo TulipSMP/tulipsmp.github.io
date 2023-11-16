@@ -11,4 +11,4 @@ Documentation for Tulip SMP players and staff.
 - [Commands](commands)
 - [Permissions](permissions)
 - [ArtMap How-To](artmap)
-- [Claims](claims)
+- [Shopkeepers](shopkeepers)
