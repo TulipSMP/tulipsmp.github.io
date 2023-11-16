@@ -85,12 +85,6 @@ Puts the item you are holding in your helmet slot.
 
 See information about the server and links to resources.
 
-#### /tpahere
-
-- `/tpahere [player]`
-
-Request a player teleport to you. They must accept with [/tpaccept](#tpaccept) or deny with [/tpdeny](#tpdeny). You can cancel a request with [/tpcancel](#tpacancel).
-
 #### /realname
 
 - `/realname [player]`
@@ -212,14 +206,6 @@ Opens a stonecutter.
 
 Views the MOTD shown when you join the server.
 
-#### /tpacancel
-
-- `/tpacancel <player>`
-
-Cancels all outstanding teleport requests.
-
-Specify `<player>` to cancel requests only with them.
-
 #### /back
 
 - `/back`
@@ -273,16 +259,6 @@ Get the player head of you, or that of another `<owner>`.
 #### /head
 
 *Alias for [/skull](#skull).*
-
-#### /tpa
-
-- `/tpa [player]`
-
-Request to teleport to a `[player]`.
-
-#### /tpask
-
-*Alias for [/tpa](#tpa).*
 
 #### /paytoggle
 
@@ -362,26 +338,6 @@ Change whether the recipient of replies in [/r](#r) is the last recipient or las
 - `/showkit [kit name]`
 
 Show contents of a kit.
-
-#### /tpaccept
-
-- `/tpaccept <player>`
-
-Accept teleport requests.
-
-> See [/tpa](#tpa) or [/tpahere](#tpahere) for how to send teleport requests.
-
-#### /tpr
-
-- `/tpr`
-
-Teleport to a random location.
-
-#### /tpauto
-
-- `/tpauto [player]`
-
-Automatically accept teleport requests.
 
 #### /playtime
 
