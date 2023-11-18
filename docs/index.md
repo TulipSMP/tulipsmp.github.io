@@ -12,3 +12,4 @@ Documentation for Tulip SMP players and staff.
 - [Permissions](permissions)
 - [ArtMap How-To](artmap)
 - [Shopkeepers](shopkeepers)
+- [Armor Stands](armorstands)
