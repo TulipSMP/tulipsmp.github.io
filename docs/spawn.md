@@ -12,4 +12,7 @@ I have a block pallette already laid out ingame, but encourage everyone to add b
 
 I also have worldedit if you need me to do stuff with that, but I'd rather not unless necessary, as it gets messy quickly.
 
-Builders: TBD
+Builders: 
+- Yosh27
+- UndatedTree7132
+- Leboro
