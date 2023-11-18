@@ -7,6 +7,7 @@ This document outlines all rules that players and Staff are expected to follow.
 ### Contents
  - [Members](#members)
  - [Staff](#staff)
+ - [Creators](#creators)
 
 When refrencing this document, you can use the `Section.Number` notation. For example, to refer to Rule #1 for members, you can say "Members.1".
 
@@ -41,3 +42,7 @@ When refrencing this document, you can use the `Section.Number` notation. For ex
 3. Foster Communication. - *You cannot keep peace in solitude. Moderators must communicate with eachother, to keep eachother informed of what is happening in the community. Moderators should also ensure players are properly communicating with eachother, in order to avoid the many conflicts that come with miscommunication.*
 4. Resolve Conflicts. - *No matter how or when a conflict arises between members, Moderators must attempt to resolve it to the best of their ability. Moderators should not Escalate situations, and should not be afraid to ask for help from other moderators if they need it.*
 5. Be Just. - *Moderators should deal out punishments that are proportional to the rule broken. For a refrence on what is considered "proportional", see the [Punishment Guidelines](punishments).*
+
+## Creators
+
+- See the [Creator Guidelines](creators)
