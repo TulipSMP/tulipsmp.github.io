@@ -18,6 +18,15 @@ Commands players and above can use.
 
 (Almost) all commands you can use ingame are listed here.
 
+#### /art
+
+- `/art`
+
+Open a UI for [ArtMap](/docs/artmap).
+
+#### /artmap
+
+*Alias for [/art](#art).*
 
 #### /msgtoggle
 
@@ -225,6 +234,14 @@ Get the player head of you, or that of another `<owner>`.
 #### /head
 
 *Alias for [/skull](#skull).*
+
+#### /heads
+
+- `/heads`
+
+Opens a UI to get various player heads.
+
+> *Not to be confused with [/head](#head)!*
 
 #### /itemlore
 
@@ -775,3 +792,11 @@ Enchant the item you or another player are holding.
 #### /time
 
 Manage the time.
+
+#### /hologram
+
+Manage Holograms.
+
+#### /shopkeepers
+
+Manage [Shopkeepers](/docs/shopkeepers).

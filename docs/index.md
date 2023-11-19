@@ -13,3 +13,4 @@ Documentation for Tulip SMP players and staff.
 - [ArtMap How-To](artmap)
 - [Shopkeepers](shopkeepers)
 - [Armor Stands](armorstands)
+- [Heads](heads)
