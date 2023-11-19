@@ -334,6 +334,10 @@ Send a private `[message]` to a `[player]`.
 
 View how to craft an item.
 
+#### /blockprot
+
+See [Block Protection](/docs/blockprot).
+
 
 ## For Jr. Moderators
 

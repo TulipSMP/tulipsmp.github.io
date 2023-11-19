@@ -14,3 +14,4 @@ Documentation for Tulip SMP players and staff.
 - [Shopkeepers](shopkeepers)
 - [Armor Stands](armorstands)
 - [Heads](heads)
+- [Block Protection](blockprot)
