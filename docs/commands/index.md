@@ -338,6 +338,16 @@ View how to craft an item.
 
 See [Block Protection](/docs/blockprot).
 
+#### /tags
+
+- `/tags`
+
+Opens the [Tags Menu](/docs/tags)
+
+#### /tag
+
+*Alias for [/tags](#tags).*
+
 
 ## For Jr. Moderators
 

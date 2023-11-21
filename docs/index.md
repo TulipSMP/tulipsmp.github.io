@@ -15,3 +15,4 @@ Documentation for Tulip SMP players and staff.
 - [Armor Stands](armorstands)
 - [Heads](heads)
 - [Block Protection](blockprot)
+- [Tags](tags)
