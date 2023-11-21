@@ -4,9 +4,12 @@ A tight-knit community of passionate players trying to find solace in this peril
 
 ## Resources
 
-- [Guidelines](guidelines)
-- [Punishment Guidelines](guidelines/punishments)
+- [**Guidelines**](guidelines)
+
 - [Documentation](docs)
+
+- [Map](/map)
+
 - [Staff Guide](docs/staffguide)
 
 ## Invite Only
