@@ -449,7 +449,7 @@ Set a warp called `[name]` at your current location.
 
 > Players can teleport to these locations with [/warp](#warp).
 
-#### /delwarpto
+#### /delwarp
 
 - `/delwarp [name]`
 
