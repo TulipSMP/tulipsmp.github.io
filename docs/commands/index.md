@@ -40,11 +40,6 @@ Toggles whether you can recieve private messages via [/msg](#msg)
 
 Get info on using different commands.
 
-#### /delhome
-
-- `/delhome [name]`
-
-Delete a home you have set via [/home](#home)
 
 #### /tptoggle
 
@@ -105,14 +100,6 @@ Check the real username of a player (useful if they have a nickname you do not r
 - `/rules`
 
 View server rules. This list may be outdated, always check discord for the latest iteration.
-
-#### /sethome
-
-- `/sethome [name]`
-
-Set a home you can teleport to later.
-
-> *Players* and *Jr. Moderators* can have 50 homes. *Moderators* can have 100. *Administrators* can have 10k.
 
 #### /warpinfo
 
@@ -209,9 +196,9 @@ Shows the last logout time of a player.
 
 #### /home
 
-- `/home <name>`
+- `/home`
 
-Teleport to your home named `<name>`, which you can set with [/sethome](#sethome).
+Teleport to your bed.
 
 #### /getpos
 
