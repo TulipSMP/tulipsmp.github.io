@@ -428,20 +428,6 @@ Locks/Unlocks the book you are holding.
 
 Sends a teleport request to all players to teleport to you.
 
-#### /setwarp
-
-- `/setwarp [name]`
-
-Set a warp called `[name]` at your current location.
-
-> Players can teleport to these locations with [/warp](#warp).
-
-#### /delwarp
-
-- `/delwarp [name]`
-
-Delete the warp called `[name]`.
-
 #### /world
 
 - `/world`
@@ -801,3 +787,17 @@ Manage Holograms.
 #### /shopkeepers
 
 Manage [Shopkeepers](/docs/shopkeepers).
+
+#### /setwarp
+
+- `/setwarp [name]`
+
+Set a warp called `[name]` at your current location.
+
+> Players can teleport to these locations with [/warp](#warp).
+
+#### /delwarp
+
+- `/delwarp [name]`
+
+Delete the warp called `[name]`.
