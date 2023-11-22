@@ -399,15 +399,16 @@ Kicks all players from the server.
 
 Kick `[player]` with optional `<reason>`.
 
-#### /togglejail
-
-- `/togglejail [player] [jailname] <duration>`
-
-Jail/Unjail a player from jail `[jailname]` indefinitely, or for optional `<duration>`.
-
 #### /jail
 
-*Alias for [/togglejail](#togglejail).*
+- `/jail [player] [jailname] <duration>`
+
+Jail a player `[jailname]` indefinitely, or for optional `<duration>`.
+
+#### /togglejail
+
+*Alias for [/jail](#jail).*
+
 
 #### /vanish
 
@@ -547,6 +548,12 @@ Unbans the specified player.
 - `/unbanip [address]`
 
 Unbans the specified IP `[address]`.
+
+#### /unjail
+
+- `/unjail [player]`
+
+Removes specified `[player]` from jail.
 
 
 ## For Administrators
