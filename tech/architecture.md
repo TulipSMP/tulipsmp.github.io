@@ -8,6 +8,7 @@ This page outlines the overall setup of Tulip SMP's infrastructure, piece by pie
 
 - [Networking](#networking)
 - [Minecraft Server](#minecraft-server)
+- [Proxy](#proxy)
 
 ## Networking
 

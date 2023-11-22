@@ -9,3 +9,5 @@ For a starting point, have a look at the [Architecture](architecture) page.
 ## Contents
 
 - [**Architecture**](architecture)
+
+- [Minecraft Server Plugins](plugins)
