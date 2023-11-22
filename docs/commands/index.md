@@ -365,6 +365,16 @@ Do a belly flop.
 
 Spin around.
 
+#### /dc
+
+- `/dc list`
+
+List your death chests
+
+- `/dc remove`
+
+Remove all your death chests
+
 
 ## For Jr. Moderators
 
