@@ -8,6 +8,14 @@ This page is intended to guide Moderators in making decisions about what punishm
 
 Repeated offenses should always have somewhat more severe punishments
 
+- [Durations](#durations)
+- [Chat](#chat)
+- [Ingame Actions](#ingame-actions)
+
+
+*If you have any questions about how long or how you should punish someone, ask other moderators or talk to Krafter.*
+
+
 #### Durations
 
 Exact durations are not listed  here, see this key for their approximation:
@@ -42,15 +50,19 @@ Rule | Misdemeanor | Punishment
 5 | Rude comments to other SMPs | Warning
 5 | Contributing to/Partaking in "Raids" | Extended Timeout/Tempban
 
-### Ingame
+### Ingame Actions
 
 *These apply to all actions done ingame, within the Minecraft or Terraria servers.*
 
-Feel free to [/jail](/docs/commands/#togglejail) people instead of tempbanning them, for cool and poggerness and also its neat for lore.
+Feel free to [/jail](/docs/commands/#togglejail) people instead of banning or tempbanning them, for cool and poggerness and also its neat for lore.
 
 Rule | Misdemeanor | Punishment
 -----|-------------|-----------
 1 | Harassment | Short Tempban/Jail
-1 | 
+1 | Random, Repetitive Attacking | Short Tempban/Jail
+2 | Messing up people's events/contraptions/lore | Medium Tempban/Jail
+3 | Stealing Items | Medium Tempban/Jail
+3 | Griefing | Long Tempban/Jail
+4 | Hacking | Long **Tempban** (not Jail)
+4 | Using an [Illegal Mod](/guidelines/client-mods) | Warning
 
-*WIP*
