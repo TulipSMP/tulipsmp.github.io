@@ -19,14 +19,17 @@ Name                                                          | Purpose | Info
 [CommandWhitelist](https://www.spigotmc.org/resources/81326/) | Whitelist for commands that tab-complete, based on permission level
 [CoreProtect](https://www.spigotmc.org/resources/8631/)       | World rollbacks | Staff see [Aux and Core](/docs/staff/ap-and-co)
 [CustomHeads](https://www.spigotmc.org/resources/29057/)      | Get custom heads  | See [Heads](/docs/heads)
+[DeadChest](https://dev.bukkit.org/projects/dead-chest)       | Death Chests
 [DecentHolograms](https://www.spigotmc.org/resources/96927/)  | Fancy floating text | Used for the text at spawn
 [DiscordSRV](https://www.spigotmc.org/resources/18494/)       | Discord linking | For chat, syncing roles, etc. (Runs *Petals*)
 [EssentialsX](https://essentialsx.net/downloads.html)         | Utility and standard moderation commands | *Very Monolithic.*
 [EssentialsChat](https://essentialsx.net/downloads.html)      | Chat formatting
 [EssentialsSpawn](https://essentialsx.net/downloads.html)     | The `/spawn` command
 [floodgate](https://geysermc.org/download#spigot)             | Talks to the proxy to identify bedrock players
+[GSit](https://www.spigotmc.org/resources/62325/)             | Sit/Stand/Lay etc.
 [LuckPerms](https://www.spigotmc.org/resources/28140/)        | Permissions management | Also for the tags at the start and end of your name in chat
 [PAPIProxyBridge](https://www.spigotmc.org/resources/108415/) | Syncs placeholders with the proxy
+[PhantomSMP](https://www.spigotmc.org/resources/59721/)       | Better phantoms for multiplayer
 [PlaceholderAPI](https://www.spigotmc.org/resources/6245/)    | Library | Placeholders
 [ProtocolLib](https://ci.dmulloy2.net/job/ProtocolLib/)       | Library
 [Shopkeepers](https://www.spigotmc.org/resources/80756/)      | Shopkeeper villagers | See [Shopkeepers](/docs/shopkeepers)

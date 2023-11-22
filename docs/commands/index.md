@@ -335,6 +335,36 @@ Opens the [Tags Menu](/docs/tags)
 
 *Alias for [/tags](#tags).*
 
+#### /sit
+
+- `/sit`
+
+Sit down.
+
+#### /crawl
+
+- `/crawl`
+
+Crawl.
+
+#### /lay
+
+- `/lay`
+
+Lay down.
+
+#### /bellyflop
+
+- `/bellyflop`
+
+Do a belly flop.
+
+#### /spin
+
+- `/spin`
+
+Spin around.
+
 
 ## For Jr. Moderators
 
@@ -790,14 +820,14 @@ Manage [Shopkeepers](/docs/shopkeepers).
 
 #### /setwarp
 
-- `/setwarp [name]`
-
-Set a warp called `[name]` at your current location.
+Set a warp at your current location.
 
 > Players can teleport to these locations with [/warp](#warp).
 
 #### /delwarp
 
-- `/delwarp [name]`
+Delete warps.
 
-Delete the warp called `[name]`.
+#### /dc
+
+Manage DeadChests.
