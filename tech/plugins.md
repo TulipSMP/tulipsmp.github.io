@@ -25,7 +25,6 @@ Name                                                          | Purpose | Info
 [EssentialsChat](https://essentialsx.net/downloads.html)      | Chat formatting
 [EssentialsSpawn](https://essentialsx.net/downloads.html)     | The `/spawn` command
 [floodgate](https://geysermc.org/download#spigot)             | Talks to the proxy to identify bedrock players
-[GriefPrevention](https://www.spigotmc.org/resources/1884/)   | Spawn protection
 [LuckPerms](https://www.spigotmc.org/resources/28140/)        | Permissions management | Also for the tags at the start and end of your name in chat
 [PAPIProxyBridge](https://www.spigotmc.org/resources/108415/) | Syncs placeholders with the proxy
 [PlaceholderAPI](https://www.spigotmc.org/resources/6245/)    | Library | Placeholders
@@ -37,5 +36,7 @@ Name                                                          | Purpose | Info
 [Vault](https://www.spigotmc.org/resources/34315/)            | Library
 [ViaBackwards](https://www.spigotmc.org/resources/27448/)     | Allows clients older than the server to join
 [ViaVersion](https://www.spigotmc.org/resources/19254/)       | Allows clients newer than the server to join
+[WorldEdit](https://dev.bukkit.org/projects/worldedit)        | Library *for WorldGuard*
+[WorldGuard](https://dev.bukkit.org/projects/worldguard/)     | Spawn Protection
 
 *Library* means one or more other plugins need that plugin to be installed for them to function properly.
