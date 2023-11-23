@@ -15,6 +15,8 @@ Repeated offenses should always have somewhat more severe punishments
 
 *If you have any questions about how long or how you should punish someone, ask other moderators or talk to Krafter.*
 
+> **IMPORTANT:** If you perform a moderation action in minecraft, you must log it in discord with the `/log punishment` Stem command!
+> To get a user's UUID for this, use the `/mcuuid` command in Discord.
 
 #### Durations
 
