@@ -5,9 +5,13 @@ A tight-knit community of passionate players trying to find solace in this peril
 ## Resources
 
 - [**Guidelines**](guidelines)
+
     - [*Conduct Guidelines*](guidelines/conduct)
+
     - [*Client Mod Guidelines*](guidelines/client-mods)
+
     - [*Creator Guidelines*](guidelines/creators)
+
 
 - [Documentation](docs)
 
