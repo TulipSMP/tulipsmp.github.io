@@ -35,6 +35,8 @@ Name                                                          | Purpose | Info
 [Shopkeepers](https://www.spigotmc.org/resources/80756/)      | Shopkeeper villagers | See [Shopkeepers](/docs/shopkeepers)
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
 [squaremap](https://github.com/jpenilla/squaremap/releases)   | The Map
+[Skript](https://github.com/SkriptLang/Skript/releases)       | Scripting plugin | For the daily fun fact when you join
+[skript-placeholders](https://github.com/APickledWalrus/skript-placeholders/releases) | Allows scripts to register PAPI placeholders
 [Themis](https://www.spigotmc.org/resources/90766/)           | Anticheat
 [Vault](https://www.spigotmc.org/resources/34315/)            | Library
 [ViaBackwards](https://www.spigotmc.org/resources/27448/)     | Allows clients older than the server to join
