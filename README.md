@@ -17,6 +17,8 @@ A tight-knit community of passionate players trying to find solace in this peril
 
 - [**Map**](/map)
 
+- [**Wiki**](/wiki
+
 - [Staff Guide](docs/staffguide)
 
 ## Invite Only
