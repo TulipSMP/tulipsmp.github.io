@@ -1,6 +1,7 @@
 # Wiki Guide
 
 - [Back](/docs)
+- [**Wiki**](/wiki)
 
 This page outlines how to use and contribute to [the wiki](/wiki). All [Guidelines](/guidelines) apply on the wiki just as on other platforms. 
 
@@ -8,6 +9,7 @@ This page outlines how to use and contribute to [the wiki](/wiki). All [Guidelin
 - [Creating an Account](#creating-an-account)
 - [Page Formatting](#page-formatting)
 - [Creating Pages](#creating-pages)
+- [Incidents](#incidents)
 
 ## Creating an Account
 
@@ -31,3 +33,9 @@ Each page must:
 ## Creating Pages
 
 To create a page, type the name of the page in the search bar and hit enter, then (ensuring you're signed in) click the red link at the top of the search results.
+
+From there, you will be redirected to the editor where you can create  the page, following the guidelines for [Page Formatting](#page-formatting).
+
+## Incidents
+
+If something against the rules happens on the wiki, please alert the moderators and we will deal with it. (The moderators do have a log of wiki changes)
