@@ -7,6 +7,7 @@ This page outlines how to use and contribute to [the wiki](/wiki). All [Guidelin
 ##### Contents
 - [Creating an Account](#creating-an-account)
 - [Page Formatting](#page-formatting)
+- [Creating Pages](#creating-pages)
 
 ## Creating an Account
 
@@ -27,4 +28,6 @@ Each page must:
 1. Click the button to open the page selector, and find the page you need to link to (or manually type it, make sure to prefix it with a `:`)
 1. Fill in the text to display, and click "Ok"
 
+## Creating Pages
 
+To create a page, type the name of the page in the search bar and hit enter, then (ensuring you're signed in) click the red link at the top of the search results.
