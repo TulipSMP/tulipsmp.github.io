@@ -375,6 +375,11 @@ List your death chests
 
 Remove all your death chests
 
+#### /dl lock
+
+- `/dl lock`
+
+Toggle being able to place light sources (Torches and Lanterns) from your off hand.
 
 ## For Jr. Moderators
 
