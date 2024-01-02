@@ -22,6 +22,7 @@ Name                                                          | Purpose | Info
 [DeadChest](https://dev.bukkit.org/projects/dead-chest)       | Death Chests
 [DecentHolograms](https://www.spigotmc.org/resources/96927/)  | Fancy floating text | Used for the text at spawn
 [DiscordSRV](https://www.spigotmc.org/resources/18494/)       | Discord linking | For chat, syncing roles, etc. (Runs *Petals*)
+[DynamicLights](https://www.spigotmc.org/resources/dynamiclights.110707/) | Dynamic Lighting | Light when you hold a light source
 [EssentialsX](https://essentialsx.net/downloads.html)         | Utility and standard moderation commands | *Very Monolithic.*
 [EssentialsChat](https://essentialsx.net/downloads.html)      | Chat formatting
 [EssentialsSpawn](https://essentialsx.net/downloads.html)     | The `/spawn` command
