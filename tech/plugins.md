@@ -32,6 +32,7 @@ Name                                                          | Purpose | Info
 [PAPIProxyBridge](https://www.spigotmc.org/resources/108415/) | Syncs placeholders with the proxy
 [PhantomSMP](https://www.spigotmc.org/resources/59721/)       | Better phantoms for multiplayer
 [PlaceholderAPI](https://www.spigotmc.org/resources/6245/)    | Library | Placeholders
+<!--[Plan](https://www.spigotmc.org/resources/plan-player-analytics.32536/) | Player Analytics | [View](/analytics)-->
 [ProtocolLib](https://ci.dmulloy2.net/job/ProtocolLib/)       | Library
 [Shopkeepers](https://www.spigotmc.org/resources/80756/)      | Shopkeeper villagers | See [Shopkeepers](/docs/shopkeepers)
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
