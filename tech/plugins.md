@@ -35,6 +35,7 @@ Name                                                          | Purpose | Info
 <!--[Plan](https://www.spigotmc.org/resources/plan-player-analytics.32536/) | Player Analytics | [View](/analytics)-->
 [ProtocolLib](https://ci.dmulloy2.net/job/ProtocolLib/)       | Library
 [Shopkeepers](https://www.spigotmc.org/resources/80756/)      | Shopkeeper villagers | See [Shopkeepers](/docs/shopkeepers)
+<!--[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/versions?l=purpur) | Proximity Chat | *Unfortunately doesn't support bedrock edition!*-->
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
 [squaremap](https://github.com/jpenilla/squaremap/releases)   | The Map
 [Skript](https://github.com/SkriptLang/Skript/releases)       | Scripting plugin | For the daily fun fact when you join
