@@ -1,5 +1,7 @@
 # Spawn Building
 
+> Note: this page is now useless, season 1 spawn has been built!
+
 Let's build spawn! Here are the technical requirements:
 - Be easy to navigate
 - Have a place for the shopkeeper to stand to sell shopkeepers
