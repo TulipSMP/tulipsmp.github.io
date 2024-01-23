@@ -11,7 +11,6 @@ Documentation for Tulip SMP players and staff.
 - [Commands](commands)
 - [Permissions](permissions)
 - [ArtMap How-To](artmap)
-- [Shopkeepers](shopkeepers)
 - [Armor Stands](armorstands)
 - [Heads](heads)
 - [Block Protection](blockprot)

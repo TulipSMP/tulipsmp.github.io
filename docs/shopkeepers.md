@@ -2,6 +2,8 @@
 
 - [Back](/docs)
 
+> **STOP!** Shopkeepers has been removed! You can still trade back your shopkeeper eggs to the villager at spawn, and you can make new chest shops for free by clicking an item on a chest.
+
 ## About
 
 Shopkeepers is an ingame system for shops based on chests for your items, and villagers to sell your wares. This guide outlines how to set up and use such a shop.
