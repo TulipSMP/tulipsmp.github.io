@@ -22,15 +22,18 @@ Name                                                          | Purpose | Info
 [DeadChest](https://dev.bukkit.org/projects/dead-chest)       | Death Chests
 [DecentHolograms](https://www.spigotmc.org/resources/96927/)  | Fancy floating text | Used for the text at spawn
 [DiscordSRV](https://www.spigotmc.org/resources/18494/)       | Discord linking | For chat, syncing roles, etc. (Runs *Petals*)
+[DynamicLights](https://www.spigotmc.org/resources/dynamiclights.110707/) | Dynamic Lighting | Light when you hold a light source
 [EssentialsX](https://essentialsx.net/downloads.html)         | Utility and standard moderation commands | *Very Monolithic.*
 [EssentialsChat](https://essentialsx.net/downloads.html)      | Chat formatting
 [EssentialsSpawn](https://essentialsx.net/downloads.html)     | The `/spawn` command
 [floodgate](https://geysermc.org/download#spigot)             | Talks to the proxy to identify bedrock players
 [GSit](https://www.spigotmc.org/resources/62325/)             | Sit/Stand/Lay etc.
 [LuckPerms](https://www.spigotmc.org/resources/28140/)        | Permissions management | Also for the tags at the start and end of your name in chat
+[OpenAudioMc](https://openaudiomc.net/)                       | Proximity Chat
 [PAPIProxyBridge](https://www.spigotmc.org/resources/108415/) | Syncs placeholders with the proxy
 [PhantomSMP](https://www.spigotmc.org/resources/59721/)       | Better phantoms for multiplayer
 [PlaceholderAPI](https://www.spigotmc.org/resources/6245/)    | Library | Placeholders
+[Plan](https://www.spigotmc.org/resources/plan-player-analytics.32536/) | Player Analytics | [View](/analytics)
 [ProtocolLib](https://ci.dmulloy2.net/job/ProtocolLib/)       | Library
 [Shopkeepers](https://www.spigotmc.org/resources/80756/)      | Shopkeeper villagers | See [Shopkeepers](/docs/shopkeepers)
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
