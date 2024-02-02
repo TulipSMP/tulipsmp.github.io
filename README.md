@@ -25,6 +25,8 @@ A tight-knit community of passionate players trying to find solace in this peril
 
 - <a rel="me" href="https://mas.to/@TulipSMP">Mastodon</a>
 
+- [Server Status](https://status.krafterdev.xyz/status/tulip)
+
 ## Invite Only
 
 Tulip SMP is strictly invite-only. All invitation proposals must be approved by the Administators. This ensures that all community members are engaging individuals -- and not trolls.
