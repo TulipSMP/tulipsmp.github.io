@@ -437,7 +437,7 @@ Manage your Chest Shop
 - `/bank [deposit|withdraw] [amount|all]`
 - `/bank [pay|transfer] <player> <amount>`
 
-Manage your diamonds in the bank.
+Manage your diamonds in the bank. See the [Banking](/docs/banking) page for details.
 
 ## For Jr. Moderators
 
