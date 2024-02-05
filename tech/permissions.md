@@ -1,6 +1,6 @@
 # Permissions
 
-- [Back](/docs)
+- [Back](/tech)
 
 ## Permission Levels
 

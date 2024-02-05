@@ -11,3 +11,5 @@ For a starting point, have a look at the [Architecture](architecture) page.
 - [**Architecture**](architecture)
 
 - [Minecraft Server Plugins](plugins)
+
+- [Staff permission levels](permissions)
