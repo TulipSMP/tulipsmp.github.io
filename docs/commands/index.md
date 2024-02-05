@@ -380,56 +380,23 @@ Remove all your death chests
 - `/dl lock`
 
 Toggle being able to place light sources (Torches and Lanterns) from your off hand.
+
 #### /quickshop
 
-- `/quickshop`
-
-Manage your Chest Shop
-
-<!--- [21:40:37 INFO]: QuickShop help
-[21:40:37 INFO]: /qs about - Shows QuickShop info
-[21:40:37 INFO]: /qs amount - To set the amount of items (Useful when having chat issues)
-[21:40:37 INFO]: /qs benefit - Settings of divide benefits between shop owner and other players
-[21:40:37 INFO]: /qs buy - Changes a shop to BUY mode
-[21:40:37 INFO]: /qs clean - Removes all (loaded) shops without any stock
-[21:40:37 INFO]: /qs create - Creates a new shop from the targeted chest
-[21:40:37 INFO]: /qs currency - Set or remove the currency setting of the shop
-[21:40:37 INFO]: /qs database - View and maintain the QuickShop Database
-[21:40:37 INFO]: /qs debug - Enables Developer mode
-[21:40:37 INFO]: /qs empty - Removes all items from a shop
-[21:40:37 INFO]: /qs fetchmessage - Show unread shop messages
-[21:40:37 INFO]: /qs find - Locates the nearest shop of a specific type.
-[21:40:37 INFO]: /qs help - Shows the QuickShop help
-[21:40:37 INFO]: /qs info - Show QuickShop statistics
-[21:40:37 INFO]: /qs item - Change shop item of a shop
-[21:40:37 INFO]: /qs lookup - Manage lookup-able items table
-[21:40:37 INFO]: /qs name - Changes the name of a specific shop
-[21:40:37 INFO]: /qs paste - Uploads server data to Pastebin
-[21:40:37 INFO]: /qs permission - Shop permission management
-[21:40:37 INFO]: /qs price - Changes the buy/sell price of a shop
-[21:40:37 INFO]: /qs purge - This feature is not enabled in the config file.
-[21:40:37 INFO]: /qs refill - Adds a given number of items to a shop
-[21:40:37 INFO]: /qs reload - Reloads the config.yml of QuickShop
-[21:40:37 INFO]: /qs remove - Removes the shop you're looking at
-[21:40:37 INFO]: /qs removeall - Remove ALL shops of a specified player
-[21:40:37 INFO]: /qs removeworld - Remove ALL shops in a specified world
-[21:40:37 INFO]: /qs sell - Changes a shop to SELL mode
-[21:40:37 INFO]: /qs setowner - Changes the ownership of a shop.
-[21:40:37 INFO]: /qs size - Change per-bulk amount of a shop
-[21:40:37 INFO]: /qs staff - Manage your shop staff
-[21:40:37 INFO]: /qs supercreate - Create a shop while bypassing all protection checks
-[21:40:37 INFO]: /qs taxaccount - Set the tax account that the shop using
-[21:40:37 INFO]: /qs toggledisplay - Toggle the shop's display-item status
-[21:40:37 INFO]: /qs transfer - Transfer ALL shops of a player to someone else
-[21:40:37 INFO]: /qs unlimited - Gives a shop unlimited stock --->
+*Alias for [/shop](#shop).*
 
 #### /qs
 
-*Alias for [/quickshop](#quickshop).*
+*Alias for [/shop](#shop).*
 
 #### /shop
 
-*Alias for [/quickshop](#quickshop).*
+- `/shop staff [add|del|clear|list]`
+- `/shop [setowner|price|size|name]`
+- `/shop [info|find]`
+
+Manage shops.
+See [Shops](/docs/shops) for details on command usage.
 
 #### /bank
 

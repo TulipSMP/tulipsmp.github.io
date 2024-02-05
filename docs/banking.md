@@ -1,8 +1,9 @@
 # Banking
 
 - [Back](/docs)
+- [Back to Commands](/docs/commands)
 
-Tulip SMP has a Diamond-based economy, which means most things are bought and sold with diamonds. This page outlines some useful commands and other information.
+Tulip SMP has a Diamond-based economy, which means most things are bought and sold with diamonds (i.e. from [*Shops*](shops)). This page outlines some useful commands and other information.
 
 #### Contents
 - [How it Works](#how-it-works)
