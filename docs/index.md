@@ -13,6 +13,7 @@ Documentation for Tulip SMP players and staff.
 - [Armor Stands](armorstands) - *how to use the armor stand editor*
 - [Banking](banking) - *how to manage your diamonds in the bank*
 - [Block Protection](blockprot) - *how to lock your chests, furnaces, doors, etc.*
+- [Extra Enchantments](enchants) - *special enchantments*
 - [Heads](heads) - *obtain custom heads*
 - [Shops](shops) - *how to buy/sell things*
 - [Tags](tags) - *about our chat tags*

@@ -27,12 +27,12 @@ Name                                                          | Purpose | Info
 [EssentialsX](https://essentialsx.net/downloads.html)         | Utility and standard moderation commands | *Very Monolithic.*
 [EssentialsChat](https://essentialsx.net/downloads.html)      | Chat formatting
 [EssentialsSpawn](https://essentialsx.net/downloads.html)     | The `/spawn` command
-[ExcellentEnchants](https://www.spigotmc.org/resources/61693/) | Extra enchantments 
+[ExcellentEnchants](https://www.spigotmc.org/resources/61693/) | Extra enchantments | See [Extra Enchantments](/docs/enchants)
 [F3NPerm](https://www.spigotmc.org/resources/f3nperm.46461/)  | Fixes the gamemode switcher permissions (without requiring OP)
 [floodgate](https://geysermc.org/download#spigot)             | Talks to the proxy to identify bedrock players
 [GSit](https://www.spigotmc.org/resources/62325/)             | Sit/Stand/Lay etc.
 [LuckPerms](https://www.spigotmc.org/resources/28140/)        | Permissions management | Also for the tags at the start and end of your name in chat
-[NexEngine](https://github.com/nulli0n/NexEngine-spigot/releases) | Library for ExcellentEnchants
+[NexEngine](https://github.com/nulli0n/NexEngine-spigot/releases) | Library for ExcellentEnchants | *No longer receiving updates*
 [OpenAudioMc](https://openaudiomc.net/)                       | Proximity Chat
 [PAPIProxyBridge](https://www.spigotmc.org/resources/108415/) | Syncs placeholders with the proxy
 [PhantomSMP](https://www.spigotmc.org/resources/59721/)       | Better phantoms for multiplayer
