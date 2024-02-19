@@ -41,7 +41,7 @@ Name                                                          | Purpose | Info
 [Skript](https://github.com/SkriptLang/Skript/releases)       | Scripting plugin | For the daily fun fact when you join
 [skript-placeholders](https://github.com/APickledWalrus/skript-placeholders/releases) | Allows scripts to register PAPI placeholders
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
-[squaremap](https://github.com/jpenilla/squaremap/releases)   | The Map
+[squaremap](https://github.com/jpenilla/squaremap/releases)   | The Map | [View Map](/map)
 [squaremap-deathspot](https://github.com/jpenilla/squaremap-addons) | Shows deaths on the map | Puts an X on the map for 5 minutes after you die
 [squaremap-worldguard](https://github.com/jpenilla/squaremap-addons) | Squaremap intregration for WorldGuard | Shows the protected spawn region on the map
 [Themis](https://www.spigotmc.org/resources/90766/)           | Anticheat
