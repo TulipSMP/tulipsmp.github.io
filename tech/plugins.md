@@ -45,6 +45,7 @@ Name                                                          | Purpose | Info
 [spark](https://www.spigotmc.org/resources/57242/)            | Performance profiler
 [squaremap](https://github.com/jpenilla/squaremap/releases)   | The Map | [View Map](/map)
 [squaremap-deathspot](https://github.com/jpenilla/squaremap-addons) | Shows deaths on the map | Puts an X on the map for 5 minutes after you die
+[squaremap-signs](https://github.com/jpenilla/squaremap-addons) | Sign-based map markers | See [Sign Markers](/docs/signs)
 [squaremap-worldguard](https://github.com/jpenilla/squaremap-addons) | Squaremap intregration for WorldGuard | Shows the protected spawn region on the map
 [Themis](https://www.spigotmc.org/resources/90766/)           | Anticheat
 [Vault](https://www.spigotmc.org/resources/34315/)            | Library
