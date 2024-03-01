@@ -15,5 +15,6 @@ Documentation for Tulip SMP players and staff.
 - [Block Protection](blockprot) - *how to lock your chests, furnaces, doors, etc.*
 - [Extra Enchantments](enchants) - *special enchantments*
 - [Heads](heads) - *obtain custom heads*
+- [Sign Markers](signs) - *mark spots on the map with signs*
 - [Shops](shops) - *how to buy/sell things*
 - [Tags](tags) - *about our chat tags*
