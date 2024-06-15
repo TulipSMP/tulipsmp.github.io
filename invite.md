@@ -8,6 +8,7 @@ Tulip SMP welcomes new players, even though we are not fully open to the public.
 
 2. Invite them to the **Tulip SMP • Invitations** discord server, where they will be processed. You can find an invite link for this server in the `#info` channel, or by going to *Server Guide* → *How to Join* and scrolling to the bottom.
     > **WARNING:** You may NOT permitted to do any of the following with this invitw link: (1) Post it publicly on the internet, (2) post it anywhere anonymously, (3) send it to people you do not know well enough to know if they are a good fit for our server, or (4) post it where it is against that community's rules to do so.
+    >
     > **NOTE** that users you invite will have to recall who specifically sent them the invite. It is HIGHLY RECOMMENDED that you **invite users *individually***.
     >
     > *You do not need to join the Tulip SMP • Invitations server yourself.*
