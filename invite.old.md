@@ -1,4 +1,5 @@
 # Inviting New Players
+> Warning: This is an archive of the old invitation process, for reference. Please refer to the [new invitation process](/invite) if you intend to invite a new player to Tulip SMP.
 
 - [Back](/)
 
