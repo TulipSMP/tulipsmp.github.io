@@ -2,7 +2,7 @@
 
 - [Back](/)
 
-This document outlines all rules that players and Staff are expected to follow.
+This document outlines all rules that players and Staff are expected to follow. See also the [*Invite Guidelines*](invite) for rules on inviting new players.
 
 ### Contents
  - [Members](#members)
