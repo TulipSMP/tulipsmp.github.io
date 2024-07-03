@@ -11,6 +11,8 @@ A tight-knit community of passionate players trying to find solace in this peril
     - [*Client Mod Guidelines*](guidelines/client-mods)
 
     - [*Creator Guidelines*](guidelines/creators)
+ 
+    - [*Invite Guidelines*](guidelines/invite)
 
 
 - [Documentation](docs)
@@ -20,8 +22,6 @@ A tight-knit community of passionate players trying to find solace in this peril
 - [**Wiki**](/wiki)
 
 - [Staff Guide](docs/staffguide)
-
-- [Inviting New Players](/invite)
 
 - <a rel="me" href="https://mas.to/@TulipSMP">Mastodon</a>
 
