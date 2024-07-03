@@ -2,6 +2,8 @@
 
 - [Back](/)
 
+> **This page is out-of-date. Please see the new [Invite Guidelines](/guidelines/invite) for the rules on inviting new players.**
+
 Tulip SMP welcomes new players, even though we are not fully open to the public. If you are currently a member of Tulip SMP, you may indirectly invite new players via the following process.
 
 1. Find your player: Make sure the person whom you wish to invite would be a good fit for our community and would be able to keep our [guidelines](/guidelines).
